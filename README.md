@@ -1,0 +1,2 @@
+# jscalc
+calc on js
